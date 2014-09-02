@@ -6,8 +6,8 @@ Hands-On Workshop: Salesforce1: Your first Visualforce Global Publisher Action
 Create a simple Visualforce page. Keep it very easy.
 
 
-After creating the Visualforce page, 
-1.	Navigate to
+After creating the Visualforce page,
+1. Navigate to
 Your Name -> Setup -> Build -> Create -> Global Actions -> Actions
 2.	Click on “New  Action”, select attributes as displayed in the Screenshot. 
 3.	Select your Visualforce Page from dropdown
