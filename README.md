@@ -17,6 +17,7 @@ After creating the Visualforce page
 2. Click on “New  Action”, select attributes as displayed in the Screenshot. 
 3. Select your Visualforce Page from dropdown
 4. Save Action.
+![image]https://github.com/BhawaniSharma/firstVisualforeGlobalPublisherAction/blob/master/Images/Global%20Action.png
 
 After creating the Global Action
 --------------------------------
@@ -24,10 +25,13 @@ After creating the Global Action
 2. Click on “Edit” link of “Global Layout.
 3. Add your Global Action in Publisher Actions section.
 4. Save layout.
+![image]https://github.com/BhawaniSharma/firstVisualforeGlobalPublisherAction/blob/master/Images/Gloabl%20Publisher%20Layout.png
 
 Verify your Visualforce Page
 -------------------------------
 1. Now login to your Salesforce1  app from your mobile or tablet device.
 2. Click on +(Plus) sign on the bottom right hand corner.
+![image]https://github.com/BhawaniSharma/firstVisualforeGlobalPublisherAction/blob/master/Images/Mobile%20Global%20Action.png
 3. Verify that your Global Action is being displayed. 
 4. Click on Action.
+![image]https://github.com/BhawaniSharma/firstVisualforeGlobalPublisherAction/blob/master/Images/Page.png
