@@ -6,6 +6,8 @@ Getting Started
 -----------------------------------
 1. Download Salesforce 1 app form on your android or iOS device.
 2. Andriod users can download it from Play Store and iOS users from App Store.
+https://play.google.com/store/apps/details?id=com.salesforce.chatter&hl=en
+https://itunes.apple.com/in/app/salesforce1/id404249815?mt=8
 
 Create a Visualforce Page
 ----------------------------------
@@ -35,3 +37,7 @@ Verify your Visualforce Page
 3. Verify that your Global Action is being displayed. 
 4. Click on Action.
 ![Image](https://github.com/BhawaniSharma/firstVisualforeGlobalPublisherAction/blob/master/Images/Page.png)
+
+References
+-----------------------------------
+http://www.salesforce.com/us/developer/docs/salesforce1/salesforce1_guide.pdf
